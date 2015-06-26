@@ -1,0 +1,5 @@
+C:\Users\ehsan\Desktop\ServerExample\ClientExample\bin\Debug\ClientExample.exe
+C:\Users\ehsan\Desktop\ServerExample\ClientExample\bin\Debug\ClientExample.pdb
+C:\Users\ehsan\Desktop\ServerExample\ClientExample\obj\x86\Debug\ClientExample.csprojResolveAssemblyReference.cache
+C:\Users\ehsan\Desktop\ServerExample\ClientExample\obj\x86\Debug\ClientExample.exe
+C:\Users\ehsan\Desktop\ServerExample\ClientExample\obj\x86\Debug\ClientExample.pdb

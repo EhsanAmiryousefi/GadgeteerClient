@@ -1,0 +1,6 @@
+C:\Users\ehsan\Desktop\ServerExample\ServerExample\obj\Debug\ServerExample.csprojResolveAssemblyReference.cache
+C:\Users\ehsan\Desktop\ServerExample\ServerExample\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\ehsan\Desktop\ServerExample\ServerExample\obj\Debug\ServerExample.Resources.resources
+C:\Users\ehsan\Desktop\ServerExample\ServerExample\obj\Debug\ServerExample.csproj.GenerateResource.Cache
+C:\Users\ehsan\Desktop\ServerExample\ServerExample\obj\Debug\ServerExample.Resources.tinyresources
+C:\Users\ehsan\Desktop\ServerExample\ServerExample\obj\Debug\TinyResGen.cache
